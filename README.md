@@ -17,5 +17,7 @@ Neste projeto, utiliza IAs Generativas para criar um cardápio nutritivo com bas
 Sugestões de cardápios nutritivos e balanceados.
 
 ## 💭 Reflexão 
-Este projeto demonstra como as IAs Generativas podem ser aplicadas de forma prática e útil no contexto da alimentação. A capacidade de gerar cardápios personalizados com base em um simples texto, complementada pela descrição em áudio, pode contribuir significativamente para escolhas alimentares mais saudáveis e sustentáveis.
+Este projeto demonstra o poder das IAs Generativas na criação de conteúdos realistas, e també como elas podem ser
+aplicadas em soluções práticas do dia a dia. A habilidade de gerar cardápios com base nos itens disponíveis na geladeira
+pode ajudar as pessoas a fazerem escolhas alimentares mais saudáveis e sustentáveis.
 
