@@ -1,4 +1,4 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
+# Inovação na Cozinha: Cardápios Personalizados com Inteligência Artificial
 
 ## 📒 Descrição
 Neste projeto, utiliza IAs Generativas para criar um cardápio nutritivo com base nos itens disponíveis na geladeira. O objetivo é gerar sugestões de refeições que maximizem o valor nutricional e a criatividade culinária, oferecendo opções balanceadas e saudáveis.
