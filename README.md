@@ -19,4 +19,3 @@ Sugestões de cardápios nutritivos e balanceados.
 💭 Reflexão (Opcional)
 Este projeto demonstra como as IAs Generativas podem ser aplicadas de forma prática e útil no contexto da alimentação. A capacidade de gerar cardápios personalizados com base em um simples texto, complementada pela descrição em áudio, pode contribuir significativamente para escolhas alimentares mais saudáveis e sustentáveis.
 
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
